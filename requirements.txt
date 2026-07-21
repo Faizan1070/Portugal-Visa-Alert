@@ -1,0 +1,5 @@
+Portugal-Visa-Alert
+
+📄 main.py
+📄 requirements.txt
+📄 README.md
